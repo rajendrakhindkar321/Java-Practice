@@ -4,10 +4,15 @@ public class Sum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a = 5;
-		int b=10;
-		
-		System.out.println("Sum of a & b is " + (a+b));
+		int a = 54544;
+		String str = String.valueOf(a);
+
+		System.out.println(str);
+
+		String str1 = "12345";
+		int num = Integer.parseInt(str1);
+		System.out.println(num);
+
 
 	}
 
